@@ -128,7 +128,7 @@
 	};
 
 	freeboard.loadDatasourcePlugin({
-		type_name  : "FIWARE Orion",
+		type_name  : "FIWARE Orion HTTPS",
 		settings   : [
 			{
 				name: "use_https",
