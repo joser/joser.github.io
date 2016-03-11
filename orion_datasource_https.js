@@ -27,7 +27,7 @@
 		    if(currentSettings.use_https) {
 		        url = "https://"+url;
 		    } else {
-		        url = "http://"+url";
+		        url = "http://"+url;
 		    }
 			
 			if(currentSettings.use_thingproxy) {
